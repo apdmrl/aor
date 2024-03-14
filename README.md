@@ -1,7 +1,4 @@
-## ✨ Join Discord
-- Link: https://discord.gg/rKKVqUdP3p
 
----
 
 ## ❓ What is QRadar?
 Albion QRadar provide a real-time map, aiding players in detecting other players, creatures, and resources nearby.
@@ -9,12 +6,10 @@ Albion QRadar provide a real-time map, aiding players in detecting other players
 ---
 ## ❓ If you want to use in game items
 
-- Link: https://www.mediafire.com/file/fa96b300q7ompjb/Items.rar/file
+- Link: https://drive.google.com/file/d/1rBRuztS8Iw2ruM2nRGnr995bJyHgHY4L/view?usp=sharing
 
 ### Video Tutorial
-### Link: https://www.youtube.com/watch?v=_luNHJXrD5o
 
----
 ## ❓ Usage (Windows)
 
 1. Download Node.js v18.18.2:
